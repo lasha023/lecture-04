@@ -16,12 +16,15 @@ vertical-align: middle;
 margin-right: 15px;}
 .mtav{color: red;}
 .container{width: 1180px;margin: 0 auto;}
-card {
-	width: 570px;
+.card {
+	width: 500px;
 	height: 225px;
-	background-color: lightgray;
+	background-color: lightgrey;
 	padding: 18px 20px;
-	display: inline-block;}
+	display: inline-block;
+vertical-align: top;
+margin-bottom: 40px;
+}
 
 h5 {argin-bottom: 18px;
 	font-family: 'Roboto', sans-serif;
@@ -37,4 +40,11 @@ h5 {argin-bottom: 18px;
 vertical-align: middle;}
 
 	img {display: inline-block;
-		vertical-align: middle;}
+		vertical-align: middle;
+	}
+.right{margin-left: 170px;}
+
+footer{margin-top: 80px; margin-bottom: 80px;
+margin-left: 20px;}
+.ytt{margin-left: 20px;}
+
